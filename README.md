@@ -1,5 +1,7 @@
 # Frontend Mentor - Profile card component
 
+link: https://edvan.github.io/profile-card-component.git
+
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
